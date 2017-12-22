@@ -1,0 +1,3074 @@
+INFO:root:Initialized bot Tardigrade1
+INFO:root:---NEW TURN---
+INFO:root:Starting turn 1
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Ship 3 navigating to unowned planet 5
+INFO:root:Making new move for ship 3 to Entity Planet (id: 5) at position: (x = 130.23475044646827, y = 223.23741642876632), with radius = 15.303351823760337
+INFO:root:Ship 4 navigating to unowned planet 4
+INFO:root:Making new move for ship 4 to Entity Planet (id: 4) at position: (x = 160.8226698549013, y = 169.22376544339326), with radius = 15.303351823760337
+INFO:root:Ship 5 navigating to unowned planet 6
+INFO:root:Making new move for ship 5 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 2
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 3 to planet 5
+INFO:root:Ship 3 navigating to unowned planet 5
+INFO:root:Found existing move for ship 4 to planet 4
+INFO:root:Ship 4 navigating to unowned planet 4
+INFO:root:Found existing move for ship 5 to planet 6
+INFO:root:Ship 5 navigating to unowned planet 6
+INFO:root:Starting turn 3
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 3 to planet 5
+INFO:root:Ship 3 docking at planet 5
+INFO:root:Found existing move for ship 4 to planet 4
+INFO:root:Ship 4 navigating to unowned planet 4
+INFO:root:Found existing move for ship 5 to planet 6
+INFO:root:Ship 5 docking at planet 6
+INFO:root:Starting turn 4
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 4 to planet 4
+INFO:root:Ship 4 docking at planet 4
+INFO:root:Starting turn 5
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 6
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 7
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 8
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 9
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 10
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 11
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 12
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 13
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 14
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 15
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 16
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 17
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 18
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 19
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 20
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Ship 6 docking at planet 5
+INFO:root:Making new move for ship 6 to Entity Planet (id: 5) at position: (x = 130.23475044646827, y = 223.23741642876632), with radius = 15.303351823760337
+INFO:root:Ship 7 navigating to planet 4
+INFO:root:Making new move for ship 7 to Entity Planet (id: 4) at position: (x = 160.8226698549013, y = 169.22376544339326), with radius = 15.303351823760337
+INFO:root:Starting turn 21
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 7 to planet 4
+INFO:root:Ship 7 navigating to docked ship 4
+INFO:root:Ship 8 docking at planet 4
+INFO:root:Making new move for ship 8 to Entity Planet (id: 4) at position: (x = 160.8226698549013, y = 169.22376544339326), with radius = 15.303351823760337
+INFO:root:Starting turn 22
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 7 to planet 4
+INFO:root:Ship 7 navigating to docked ship 4
+INFO:root:Starting turn 23
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 7 to planet 4
+INFO:root:Ship 7 navigating to docked ship 4
+INFO:root:Starting turn 24
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 7 to planet 4
+INFO:root:Ship 7 navigating to docked ship 4
+INFO:root:Starting turn 25
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 7 to planet 4
+INFO:root:Ship 7 navigating to docked ship 4
+INFO:root:Starting turn 26
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 27
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 28
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 29
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Ship 9 docking at planet 5
+INFO:root:Making new move for ship 9 to Entity Planet (id: 5) at position: (x = 130.23475044646827, y = 223.23741642876632), with radius = 15.303351823760337
+INFO:root:Starting turn 30
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 31
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 32
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Ship 10 docking at planet 6
+INFO:root:Making new move for ship 10 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 33
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Starting turn 34
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Ship 11 navigating to unowned planet 1
+INFO:root:Making new move for ship 11 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Starting turn 35
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 11 to planet 1
+INFO:root:Ship 11 navigating to unowned planet 1
+INFO:root:Ship 12 navigating to planet 6
+INFO:root:Making new move for ship 12 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 36
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 11 to planet 1
+INFO:root:Ship 11 navigating to unowned planet 1
+INFO:root:Found existing move for ship 12 to planet 6
+INFO:root:Ship 12 navigating to docked ship 10
+INFO:root:Starting turn 37
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 11 to planet 1
+INFO:root:Ship 11 navigating to unowned planet 1
+INFO:root:Found existing move for ship 12 to planet 6
+INFO:root:Ship 12 navigating to docked ship 10
+INFO:root:Starting turn 38
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 11 to planet 1
+INFO:root:Ship 11 docking at planet 1
+INFO:root:Found existing move for ship 12 to planet 6
+INFO:root:Ship 12 navigating to docked ship 10
+INFO:root:Starting turn 39
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 12 to planet 6
+INFO:root:Ship 12 navigating to docked ship 10
+INFO:root:Ship 13 docking at planet 5
+INFO:root:Making new move for ship 13 to Entity Planet (id: 5) at position: (x = 130.23475044646827, y = 223.23741642876632), with radius = 15.303351823760337
+INFO:root:Starting turn 40
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 12 to planet 6
+INFO:root:Ship 12 navigating to docked ship 10
+INFO:root:Starting turn 41
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 12 to planet 6
+INFO:root:Ship 12 navigating to docked ship 10
+INFO:root:Ship 15 navigating to planet 1
+INFO:root:Making new move for ship 15 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Starting turn 42
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 12 to planet 6
+INFO:root:Ship 12 navigating to docked ship 10
+INFO:root:Found existing move for ship 15 to planet 1
+INFO:root:Ship 15 navigating to docked ship 11
+INFO:root:Starting turn 43
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Ship 16 docking at planet 5
+INFO:root:Making new move for ship 16 to Entity Planet (id: 5) at position: (x = 130.23475044646827, y = 223.23741642876632), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 15 to planet 1
+INFO:root:Ship 15 navigating to docked ship 11
+INFO:root:Starting turn 44
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 15 to planet 1
+INFO:root:Ship 15 navigating to docked ship 11
+INFO:root:Starting turn 45
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 15 to planet 1
+INFO:root:Ship 15 navigating to docked ship 11
+INFO:root:Starting turn 46
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Ship 17 navigating to docked ship 1
+INFO:root:Making new move for ship 17 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Ship 18 docking at planet 5
+INFO:root:Making new move for ship 18 to Entity Planet (id: 5) at position: (x = 130.23475044646827, y = 223.23741642876632), with radius = 15.303351823760337
+INFO:root:Starting turn 47
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 17 to planet 0
+INFO:root:Ship 17 navigating to docked ship 1
+INFO:root:Starting turn 48
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 17 to planet 0
+INFO:root:Ship 17 navigating to docked ship 1
+INFO:root:Starting turn 49
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 17 to planet 0
+INFO:root:Ship 17 navigating to docked ship 1
+INFO:root:Ship 19 navigating to planet 6
+INFO:root:Making new move for ship 19 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 50
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 17 to planet 0
+INFO:root:Ship 17 navigating to docked ship 1
+INFO:root:Found existing move for ship 19 to planet 6
+INFO:root:Ship 19 navigating to docked ship 5
+INFO:root:Starting turn 51
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 17 to planet 0
+INFO:root:Ship 17 navigating to docked ship 1
+INFO:root:Found existing move for ship 19 to planet 6
+INFO:root:Ship 19 navigating to docked ship 5
+INFO:root:Ship 20 navigating to planet 6
+INFO:root:Making new move for ship 20 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Ship 21 docking at planet 6
+INFO:root:Making new move for ship 21 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 52
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 19 to planet 6
+INFO:root:Ship 19 navigating to docked ship 5
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Starting turn 53
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Ship 22 navigating to planet 6
+INFO:root:Making new move for ship 22 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 54
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 22 to planet 6
+INFO:root:Ship 22 navigating to docked ship 21
+INFO:root:Starting turn 55
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Ship 23 navigating to planet 6
+INFO:root:Making new move for ship 23 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 22 to planet 6
+INFO:root:Ship 22 navigating to docked ship 21
+INFO:root:Starting turn 56
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 23 to planet 6
+INFO:root:Ship 23 navigating to docked ship 21
+INFO:root:Found existing move for ship 22 to planet 6
+INFO:root:Ship 22 navigating to docked ship 21
+INFO:root:Starting turn 57
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 22 to planet 6
+INFO:root:Ship 22 navigating to docked ship 21
+INFO:root:Found existing move for ship 23 to planet 6
+INFO:root:Ship 23 navigating to docked ship 21
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Making new move for ship 24 to Entity Planet (id: 2) at position: (x = 117.63163601714598, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Starting turn 58
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 22 to planet 6
+INFO:root:Ship 22 navigating to docked ship 21
+INFO:root:Found existing move for ship 23 to planet 6
+INFO:root:Ship 23 navigating to docked ship 21
+INFO:root:Found existing move for ship 24 to planet 2
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Ship 25 docking at planet 4
+INFO:root:Making new move for ship 25 to Entity Planet (id: 4) at position: (x = 160.8226698549013, y = 169.22376544339326), with radius = 15.303351823760337
+INFO:root:Starting turn 59
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 22 to planet 6
+INFO:root:Ship 22 navigating to docked ship 21
+INFO:root:Found existing move for ship 23 to planet 6
+INFO:root:Ship 23 navigating to docked ship 21
+INFO:root:Found existing move for ship 24 to planet 2
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Ship 26 navigating to planet 6
+INFO:root:Making new move for ship 26 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 60
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 22 to planet 6
+INFO:root:Ship 22 navigating to docked ship 21
+INFO:root:Found existing move for ship 23 to planet 6
+INFO:root:Ship 23 navigating to docked ship 21
+INFO:root:Found existing move for ship 24 to planet 2
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Found existing move for ship 26 to planet 6
+INFO:root:Ship 26 navigating to docked ship 21
+INFO:root:Starting turn 61
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 23 to planet 6
+INFO:root:Ship 23 navigating to docked ship 21
+INFO:root:Found existing move for ship 24 to planet 2
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Found existing move for ship 26 to planet 6
+INFO:root:Ship 26 navigating to docked ship 21
+INFO:root:Ship 28 navigating to unowned planet 6
+INFO:root:Making new move for ship 28 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 62
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 23 to planet 6
+INFO:root:Ship 23 navigating to docked ship 21
+INFO:root:Found existing move for ship 24 to planet 2
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Found existing move for ship 26 to planet 6
+INFO:root:Ship 26 navigating to docked ship 21
+INFO:root:Found existing move for ship 28 to planet 6
+INFO:root:Ship 28 navigating to unowned planet 6
+INFO:root:Starting turn 63
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 23 to planet 6
+INFO:root:Ship 23 navigating to docked ship 21
+INFO:root:Found existing move for ship 24 to planet 2
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Found existing move for ship 26 to planet 6
+INFO:root:Ship 26 navigating to docked ship 21
+INFO:root:Found existing move for ship 28 to planet 6
+INFO:root:Ship 28 navigating to unowned planet 6
+INFO:root:Ship 29 navigating to unowned planet 6
+INFO:root:Making new move for ship 29 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 64
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 23 to planet 6
+INFO:root:Ship 23 navigating to docked ship 21
+INFO:root:Found existing move for ship 24 to planet 2
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Found existing move for ship 26 to planet 6
+INFO:root:Ship 26 navigating to docked ship 21
+INFO:root:Found existing move for ship 28 to planet 6
+INFO:root:Ship 28 docking at planet 6
+INFO:root:Found existing move for ship 29 to planet 6
+INFO:root:Ship 29 navigating to unowned planet 6
+INFO:root:Starting turn 65
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 23 to planet 6
+INFO:root:Ship 23 navigating to docked ship 21
+INFO:root:Found existing move for ship 24 to planet 2
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Found existing move for ship 26 to planet 6
+INFO:root:Ship 26 navigating to docked ship 21
+INFO:root:Found existing move for ship 29 to planet 6
+INFO:root:Ship 29 navigating to unowned planet 6
+INFO:root:Ship 30 navigating to planet 6
+INFO:root:Making new move for ship 30 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 66
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 23 to planet 6
+INFO:root:Ship 23 navigating to docked ship 21
+INFO:root:Found existing move for ship 24 to planet 2
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Found existing move for ship 26 to planet 6
+INFO:root:Ship 26 navigating to docked ship 21
+INFO:root:Found existing move for ship 29 to planet 6
+INFO:root:Ship 29 docking at planet 6
+INFO:root:Found existing move for ship 30 to planet 6
+INFO:root:Ship 30 navigating to docked ship 28
+INFO:root:Starting turn 67
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Ship 32 navigating to planet 6
+INFO:root:Making new move for ship 32 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 24 to planet 2
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Found existing move for ship 30 to planet 6
+INFO:root:Ship 30 navigating to docked ship 28
+INFO:root:Ship 31 docking at planet 4
+INFO:root:Making new move for ship 31 to Entity Planet (id: 4) at position: (x = 160.8226698549013, y = 169.22376544339326), with radius = 15.303351823760337
+INFO:root:Starting turn 68
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 24 to planet 2
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Starting turn 69
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Ship 33 navigating to unowned planet 1
+INFO:root:Making new move for ship 33 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 24 to planet 2
+INFO:root:Ship 24 navigating to docked ship 14
+INFO:root:Starting turn 70
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 33 to planet 1
+INFO:root:Ship 33 navigating to unowned planet 1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Starting turn 71
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 33 to planet 1
+INFO:root:Ship 33 navigating to unowned planet 1
+INFO:root:Ship 34 navigating to planet 6
+INFO:root:Making new move for ship 34 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Starting turn 72
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 33 to planet 1
+INFO:root:Ship 33 navigating to unowned planet 1
+INFO:root:Found existing move for ship 34 to planet 6
+INFO:root:Ship 34 navigating to docked ship 29
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Starting turn 73
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 33 to planet 1
+INFO:root:Ship 33 navigating to unowned planet 1
+INFO:root:Found existing move for ship 34 to planet 6
+INFO:root:Ship 34 navigating to docked ship 29
+INFO:root:Ship 36 navigating to planet 6
+INFO:root:Making new move for ship 36 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Ship 35 docking at planet 4
+INFO:root:Making new move for ship 35 to Entity Planet (id: 4) at position: (x = 160.8226698549013, y = 169.22376544339326), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Starting turn 74
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 33 to planet 1
+INFO:root:Ship 33 navigating to unowned planet 1
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Starting turn 75
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 33 to planet 1
+INFO:root:Ship 33 navigating to unowned planet 1
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Ship 37 navigating to unowned planet 6
+INFO:root:Making new move for ship 37 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Starting turn 76
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 33 to planet 1
+INFO:root:Ship 33 navigating to unowned planet 1
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 37 to planet 6
+INFO:root:Ship 37 navigating to unowned planet 6
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Starting turn 77
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 33 to planet 1
+INFO:root:Ship 33 navigating to unowned planet 1
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 37 to planet 6
+INFO:root:Ship 37 navigating to unowned planet 6
+INFO:root:Ship 39 navigating to unowned planet 6
+INFO:root:Making new move for ship 39 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Ship 38 docking at planet 4
+INFO:root:Making new move for ship 38 to Entity Planet (id: 4) at position: (x = 160.8226698549013, y = 169.22376544339326), with radius = 15.303351823760337
+INFO:root:Starting turn 78
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 33 to planet 1
+INFO:root:Ship 33 navigating to unowned planet 1
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 37 to planet 6
+INFO:root:Ship 37 docking at planet 6
+INFO:root:Found existing move for ship 39 to planet 6
+INFO:root:Ship 39 navigating to unowned planet 6
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Starting turn 79
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 33 to planet 1
+INFO:root:Ship 33 docking at planet 1
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 39 to planet 6
+INFO:root:Ship 39 navigating to unowned planet 6
+INFO:root:Ship 40 navigating to planet 6
+INFO:root:Making new move for ship 40 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Starting turn 80
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 39 to planet 6
+INFO:root:Ship 39 docking at planet 6
+INFO:root:Found existing move for ship 40 to planet 6
+INFO:root:Ship 40 navigating to docked ship 37
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Making new move for ship 41 to Entity Planet (id: 7) at position: (x = 94.1773301450987, y = 85.77623455660674), with radius = 15.303351823760337
+INFO:root:Starting turn 81
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Ship 43 navigating to planet 6
+INFO:root:Making new move for ship 43 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 40 to planet 6
+INFO:root:Ship 40 navigating to docked ship 37
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Starting turn 82
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Starting turn 83
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Ship 44 docking at planet 4
+INFO:root:Making new move for ship 44 to Entity Planet (id: 4) at position: (x = 160.8226698549013, y = 169.22376544339326), with radius = 15.303351823760337
+INFO:root:Ship 45 navigating to planet 6
+INFO:root:Making new move for ship 45 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Starting turn 84
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 45 to planet 6
+INFO:root:Ship 45 navigating to docked ship 39
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Starting turn 85
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 45 to planet 6
+INFO:root:Ship 45 navigating to docked ship 39
+INFO:root:Ship 46 navigating to planet 6
+INFO:root:Making new move for ship 46 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Ship 47 navigating to planet 6
+INFO:root:Making new move for ship 47 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 86
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 46 to planet 6
+INFO:root:Ship 46 navigating to docked ship 39
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Starting turn 87
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Ship 48 navigating to unowned planet 6
+INFO:root:Making new move for ship 48 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 46 to planet 6
+INFO:root:Ship 46 navigating to docked ship 39
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Starting turn 88
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 46 to planet 6
+INFO:root:Ship 46 navigating to docked ship 39
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 48 to planet 6
+INFO:root:Ship 48 navigating to unowned planet 6
+INFO:root:Ship 49 navigating to docked ship 27
+WARNING:root:None command for ship 49 and planet 0, which is full? False
+INFO:root:Making new move for ship 49 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Starting turn 89
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 46 to planet 6
+INFO:root:Ship 46 navigating to docked ship 39
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 48 to planet 6
+INFO:root:Ship 48 navigating to unowned planet 6
+INFO:root:Found existing move for ship 49 to planet 0
+INFO:root:Ship 49 navigating to docked ship 27
+INFO:root:Ship 49 navigating to unowned planet 7
+WARNING:root:None command for ship 49 and planet 7, which is full? False
+INFO:root:Making new move for ship 49 to Entity Planet (id: 7) at position: (x = 94.1773301450987, y = 85.77623455660674), with radius = 15.303351823760337
+INFO:root:Ship 50 navigating to unowned planet 6
+INFO:root:Making new move for ship 50 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 90
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 46 to planet 6
+INFO:root:Ship 46 navigating to docked ship 39
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 48 to planet 6
+INFO:root:Ship 48 docking at planet 6
+INFO:root:Found existing move for ship 49 to planet 7
+INFO:root:Ship 49 navigating to unowned planet 7
+INFO:root:Ship 49 navigating to unowned planet 12
+INFO:root:Making new move for ship 49 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 50 to planet 6
+INFO:root:Ship 50 navigating to unowned planet 6
+INFO:root:Ship 51 navigating to unowned planet 12
+INFO:root:Making new move for ship 51 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Starting turn 91
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 49 to planet 12
+INFO:root:Ship 49 navigating to unowned planet 12
+INFO:root:Found existing move for ship 50 to planet 6
+INFO:root:Ship 50 navigating to unowned planet 6
+INFO:root:Found existing move for ship 51 to planet 12
+INFO:root:Ship 51 navigating to unowned planet 12
+INFO:root:Ship 52 navigating to unowned planet 6
+INFO:root:Making new move for ship 52 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 92
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 navigating to unowned planet 7
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 49 to planet 12
+INFO:root:Ship 49 navigating to unowned planet 12
+INFO:root:Found existing move for ship 50 to planet 6
+INFO:root:Ship 50 docking at planet 6
+INFO:root:Found existing move for ship 51 to planet 12
+INFO:root:Ship 51 docking at planet 12
+INFO:root:Found existing move for ship 52 to planet 6
+INFO:root:Ship 52 navigating to unowned planet 6
+INFO:root:Ship 53 navigating to unowned planet 6
+INFO:root:Making new move for ship 53 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 93
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 41 to planet 7
+INFO:root:Ship 41 docking at planet 7
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 49 to planet 12
+INFO:root:Ship 49 navigating to unowned planet 12
+INFO:root:Found existing move for ship 52 to planet 6
+INFO:root:Ship 52 navigating to unowned planet 6
+INFO:root:Found existing move for ship 53 to planet 6
+INFO:root:Ship 53 navigating to unowned planet 6
+INFO:root:Ship 55 navigating to planet 6
+INFO:root:Making new move for ship 55 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 94
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 49 to planet 12
+INFO:root:Ship 49 navigating to unowned planet 12
+INFO:root:Found existing move for ship 52 to planet 6
+INFO:root:Ship 52 docking at planet 6
+INFO:root:Found existing move for ship 53 to planet 6
+INFO:root:Ship 53 navigating to unowned planet 6
+INFO:root:Found existing move for ship 55 to planet 6
+INFO:root:Ship 55 navigating to docked ship 50
+INFO:root:Ship 56 navigating to docked ship 27
+WARNING:root:None command for ship 56 and planet 0, which is full? False
+INFO:root:Making new move for ship 56 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Starting turn 95
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 49 to planet 12
+INFO:root:Ship 49 navigating to unowned planet 12
+INFO:root:Found existing move for ship 53 to planet 6
+INFO:root:Ship 53 navigating to unowned planet 6
+INFO:root:Found existing move for ship 55 to planet 6
+INFO:root:Ship 55 navigating to docked ship 50
+INFO:root:Found existing move for ship 56 to planet 0
+INFO:root:Ship 56 navigating to docked ship 27
+INFO:root:Ship 56 navigating to planet 6
+INFO:root:Making new move for ship 56 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Ship 57 navigating to planet 6
+INFO:root:Making new move for ship 57 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 96
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 49 to planet 12
+INFO:root:Ship 49 navigating to unowned planet 12
+INFO:root:Found existing move for ship 53 to planet 6
+INFO:root:Ship 53 navigating to unowned planet 6
+INFO:root:Found existing move for ship 56 to planet 6
+INFO:root:Ship 56 navigating to docked ship 50
+INFO:root:Found existing move for ship 57 to planet 6
+INFO:root:Ship 57 navigating to docked ship 50
+INFO:root:Ship 58 docking at planet 1
+INFO:root:Making new move for ship 58 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Ship 59 navigating to planet 1
+INFO:root:Making new move for ship 59 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Starting turn 97
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 49 to planet 12
+INFO:root:Ship 49 navigating to unowned planet 12
+INFO:root:Found existing move for ship 53 to planet 6
+INFO:root:Ship 53 docking at planet 6
+INFO:root:Found existing move for ship 56 to planet 6
+INFO:root:Ship 56 navigating to docked ship 50
+INFO:root:Found existing move for ship 57 to planet 6
+INFO:root:Ship 57 navigating to docked ship 50
+INFO:root:Found existing move for ship 59 to planet 1
+INFO:root:Ship 59 navigating to docked ship 33
+INFO:root:Ship 60 navigating to planet 6
+INFO:root:Making new move for ship 60 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 98
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 49 to planet 12
+INFO:root:Ship 49 navigating to unowned planet 12
+INFO:root:Found existing move for ship 56 to planet 6
+INFO:root:Ship 56 navigating to docked ship 50
+INFO:root:Found existing move for ship 57 to planet 6
+INFO:root:Ship 57 navigating to docked ship 50
+INFO:root:Found existing move for ship 59 to planet 1
+INFO:root:Ship 59 navigating to docked ship 33
+INFO:root:Found existing move for ship 60 to planet 6
+INFO:root:Ship 60 navigating to docked ship 52
+INFO:root:Ship 61 navigating to docked ship 27
+WARNING:root:None command for ship 61 and planet 0, which is full? False
+INFO:root:Making new move for ship 61 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Starting turn 99
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 49 to planet 12
+INFO:root:Ship 49 docking at planet 12
+INFO:root:Found existing move for ship 56 to planet 6
+INFO:root:Ship 56 navigating to docked ship 50
+INFO:root:Found existing move for ship 57 to planet 6
+INFO:root:Ship 57 navigating to docked ship 50
+INFO:root:Found existing move for ship 59 to planet 1
+INFO:root:Ship 59 navigating to docked ship 33
+INFO:root:Found existing move for ship 60 to planet 6
+INFO:root:Ship 60 navigating to docked ship 52
+INFO:root:Found existing move for ship 61 to planet 0
+INFO:root:Ship 61 navigating to docked ship 27
+INFO:root:Ship 61 navigating to planet 12
+INFO:root:Making new move for ship 61 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Ship 62 navigating to planet 6
+INFO:root:Making new move for ship 62 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 100
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 56 to planet 6
+INFO:root:Ship 56 navigating to docked ship 50
+INFO:root:Found existing move for ship 57 to planet 6
+INFO:root:Ship 57 navigating to docked ship 50
+INFO:root:Found existing move for ship 59 to planet 1
+INFO:root:Ship 59 navigating to docked ship 33
+INFO:root:Found existing move for ship 61 to planet 12
+INFO:root:Ship 61 navigating to docked ship 51
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Ship 63 navigating to planet 6
+INFO:root:Making new move for ship 63 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Starting turn 101
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Making new move for ship 65 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 59 to planet 1
+INFO:root:Ship 59 navigating to docked ship 33
+INFO:root:Found existing move for ship 61 to planet 12
+INFO:root:Ship 61 navigating to docked ship 51
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 63 to planet 6
+INFO:root:Ship 63 navigating to docked ship 53
+INFO:root:Starting turn 102
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 65 to planet 0
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Ship 66 navigating to docked ship 27
+WARNING:root:None command for ship 66 and planet 0, which is full? False
+INFO:root:Making new move for ship 66 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 61 to planet 12
+INFO:root:Ship 61 navigating to docked ship 51
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 63 to planet 6
+INFO:root:Ship 63 navigating to docked ship 53
+INFO:root:Starting turn 103
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 65 to planet 0
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Found existing move for ship 66 to planet 0
+INFO:root:Ship 66 navigating to docked ship 27
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Making new move for ship 66 to Entity Planet (id: 10) at position: (x = 62.85078710439542, y = 113.88832396514199), with radius = 9.004917417165935
+INFO:root:Ship 67 navigating to planet 6
+INFO:root:Making new move for ship 67 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 61 to planet 12
+INFO:root:Ship 61 navigating to docked ship 51
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 63 to planet 6
+INFO:root:Ship 63 navigating to docked ship 53
+INFO:root:Starting turn 104
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 65 to planet 0
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Ship 68 navigating to docked ship 27
+WARNING:root:None command for ship 68 and planet 0, which is full? False
+INFO:root:Making new move for ship 68 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 61 to planet 12
+INFO:root:Ship 61 navigating to docked ship 51
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 63 to planet 6
+INFO:root:Ship 63 navigating to docked ship 53
+INFO:root:Starting turn 105
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 65 to planet 0
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Found existing move for ship 68 to planet 0
+INFO:root:Ship 68 navigating to docked ship 27
+INFO:root:Ship 68 navigating to docked ship 27
+WARNING:root:None command for ship 68 and planet 0, which is full? False
+INFO:root:Making new move for ship 68 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Ship 70 navigating to planet 12
+WARNING:root:None command for ship 70 and planet 12, which is full? False
+INFO:root:Making new move for ship 70 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 61 to planet 12
+INFO:root:Ship 61 navigating to docked ship 51
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 106
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 65 to planet 0
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Found existing move for ship 68 to planet 0
+INFO:root:Ship 68 navigating to docked ship 27
+INFO:root:Ship 68 navigating to docked ship 54
+WARNING:root:None command for ship 68 and planet 3, which is full? False
+INFO:root:Making new move for ship 68 to Entity Planet (id: 3) at position: (x = 137.36836398285402, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Ship 71 navigating to planet 12
+INFO:root:Making new move for ship 71 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 70 to planet 12
+INFO:root:Ship 70 navigating to docked ship 49
+INFO:root:Ship 70 navigating to unowned planet 6
+INFO:root:Making new move for ship 70 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 61 to planet 12
+INFO:root:Ship 61 navigating to docked ship 51
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 107
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 65 to planet 0
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Found existing move for ship 68 to planet 3
+INFO:root:Ship 68 navigating to docked ship 54
+INFO:root:Ship 68 navigating to unowned planet 6
+INFO:root:Making new move for ship 68 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 71 to planet 12
+INFO:root:Ship 71 navigating to docked ship 49
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 70 to planet 6
+INFO:root:Ship 70 navigating to unowned planet 6
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Ship 73 docking at planet 12
+INFO:root:Making new move for ship 73 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Ship 72 navigating to unowned planet 6
+INFO:root:Making new move for ship 72 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 61 to planet 12
+INFO:root:Ship 61 navigating to docked ship 51
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 108
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 65 to planet 0
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Found existing move for ship 68 to planet 6
+INFO:root:Ship 68 navigating to unowned planet 6
+INFO:root:Ship 74 navigating to unowned planet 1
+INFO:root:Making new move for ship 74 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 70 to planet 6
+INFO:root:Ship 70 navigating to unowned planet 6
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 72 to planet 6
+INFO:root:Ship 72 navigating to unowned planet 6
+INFO:root:Found existing move for ship 61 to planet 12
+INFO:root:Ship 61 navigating to docked ship 51
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 109
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 65 to planet 0
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Found existing move for ship 68 to planet 6
+INFO:root:Ship 68 navigating to unowned planet 6
+INFO:root:Found existing move for ship 74 to planet 1
+INFO:root:Ship 74 navigating to unowned planet 1
+INFO:root:Ship 75 navigating to planet 12
+WARNING:root:None command for ship 75 and planet 12, which is full? False
+INFO:root:Making new move for ship 75 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 70 to planet 6
+INFO:root:Ship 70 docking at planet 6
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 72 to planet 6
+INFO:root:Ship 72 navigating to unowned planet 6
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 110
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 65 to planet 0
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Found existing move for ship 68 to planet 6
+INFO:root:Ship 68 navigating to unowned planet 6
+INFO:root:Found existing move for ship 74 to planet 1
+INFO:root:Ship 74 navigating to unowned planet 1
+INFO:root:Found existing move for ship 75 to planet 12
+INFO:root:Ship 75 navigating to docked ship 73
+INFO:root:Ship 75 navigating to planet 6
+INFO:root:Making new move for ship 75 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Ship 76 navigating to docked ship 64
+WARNING:root:None command for ship 76 and planet 0, which is full? False
+INFO:root:Making new move for ship 76 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Ship 77 navigating to unowned planet 1
+INFO:root:Making new move for ship 77 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 72 to planet 6
+INFO:root:Ship 72 docking at planet 6
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 111
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 65 to planet 0
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Found existing move for ship 68 to planet 6
+INFO:root:Ship 68 navigating to unowned planet 6
+INFO:root:Found existing move for ship 74 to planet 1
+INFO:root:Ship 74 navigating to unowned planet 1
+INFO:root:Found existing move for ship 75 to planet 6
+INFO:root:Ship 75 navigating to docked ship 70
+INFO:root:Found existing move for ship 76 to planet 0
+INFO:root:Ship 76 navigating to docked ship 64
+INFO:root:Ship 76 navigating to unowned planet 1
+INFO:root:Making new move for ship 76 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Ship 78 navigating to planet 6
+INFO:root:Making new move for ship 78 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 77 to planet 1
+INFO:root:Ship 77 navigating to unowned planet 1
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 112
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 65 to planet 0
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Found existing move for ship 68 to planet 6
+INFO:root:Ship 68 docking at planet 6
+INFO:root:Found existing move for ship 74 to planet 1
+INFO:root:Ship 74 navigating to unowned planet 1
+INFO:root:Found existing move for ship 75 to planet 6
+INFO:root:Ship 75 navigating to docked ship 70
+INFO:root:Found existing move for ship 76 to planet 1
+INFO:root:Ship 76 navigating to unowned planet 1
+INFO:root:Found existing move for ship 78 to planet 6
+INFO:root:Ship 78 navigating to docked ship 72
+INFO:root:Found existing move for ship 77 to planet 1
+INFO:root:Ship 77 navigating to unowned planet 1
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Ship 80 navigating to planet 12
+INFO:root:Making new move for ship 80 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 113
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 65 to planet 0
+INFO:root:Ship 65 navigating to docked ship 27
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Found existing move for ship 74 to planet 1
+INFO:root:Ship 74 navigating to unowned planet 1
+INFO:root:Found existing move for ship 76 to planet 1
+INFO:root:Ship 76 navigating to unowned planet 1
+INFO:root:Found existing move for ship 78 to planet 6
+INFO:root:Ship 78 navigating to docked ship 72
+INFO:root:Found existing move for ship 77 to planet 1
+INFO:root:Ship 77 navigating to unowned planet 1
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 80 to planet 12
+INFO:root:Ship 80 navigating to docked ship 73
+INFO:root:Ship 80 navigating to planet 7
+WARNING:root:None command for ship 80 and planet 7, which is full? False
+INFO:root:Making new move for ship 80 to Entity Planet (id: 7) at position: (x = 94.1773301450987, y = 85.77623455660674), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Ship 82 navigating to planet 6
+INFO:root:Making new move for ship 82 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 114
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Found existing move for ship 74 to planet 1
+INFO:root:Ship 74 docking at planet 1
+INFO:root:Found existing move for ship 76 to planet 1
+INFO:root:Ship 76 navigating to unowned planet 1
+INFO:root:Found existing move for ship 77 to planet 1
+INFO:root:Ship 77 navigating to unowned planet 1
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 80 to planet 7
+INFO:root:Ship 80 navigating to docked ship 41
+INFO:root:Ship 80 navigating to unowned planet 8
+WARNING:root:None command for ship 80 and planet 8, which is full? False
+INFO:root:Making new move for ship 80 to Entity Planet (id: 8) at position: (x = 124.7652495535317, y = 31.762583571233705), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Ship 83 navigating to unowned planet 9
+WARNING:root:None command for ship 83 and planet 9, which is full? False
+INFO:root:Making new move for ship 83 to Entity Planet (id: 9) at position: (x = 158.08791940843304, y = 73.48634901462694), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 115
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 navigating to unowned planet 10
+INFO:root:Found existing move for ship 76 to planet 1
+INFO:root:Ship 76 navigating to unowned planet 1
+INFO:root:Found existing move for ship 77 to planet 1
+INFO:root:Ship 77 docking at planet 1
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 80 to planet 8
+INFO:root:Ship 80 navigating to unowned planet 8
+INFO:root:Ship 80 navigating to planet 6
+INFO:root:Making new move for ship 80 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 83 to planet 9
+INFO:root:Ship 83 navigating to unowned planet 9
+INFO:root:Ship 83 navigating to unowned planet 9
+WARNING:root:None command for ship 83 and planet 9, which is full? False
+INFO:root:Making new move for ship 83 to Entity Planet (id: 9) at position: (x = 158.08791940843304, y = 73.48634901462694), with radius = 15.303351823760337
+INFO:root:Ship 84 navigating to planet 1
+INFO:root:Making new move for ship 84 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 116
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 66 to planet 10
+INFO:root:Ship 66 docking at planet 10
+INFO:root:Found existing move for ship 76 to planet 1
+INFO:root:Ship 76 navigating to unowned planet 1
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Ship 85 navigating to docked ship 54
+INFO:root:Making new move for ship 85 to Entity Planet (id: 3) at position: (x = 137.36836398285402, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 80 to planet 6
+INFO:root:Ship 80 navigating to docked ship 68
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 83 to planet 9
+INFO:root:Ship 83 navigating to unowned planet 9
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Making new move for ship 83 to Entity Planet (id: 10) at position: (x = 62.85078710439542, y = 113.88832396514199), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 84 to planet 1
+INFO:root:Ship 84 navigating to docked ship 74
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 117
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 76 to planet 1
+INFO:root:Ship 76 docking at planet 1
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 85 to planet 3
+INFO:root:Ship 85 navigating to docked ship 54
+INFO:root:Ship 86 navigating to planet 6
+INFO:root:Making new move for ship 86 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 80 to planet 6
+INFO:root:Ship 80 navigating to docked ship 68
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Found existing move for ship 84 to planet 1
+INFO:root:Ship 84 navigating to docked ship 74
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 118
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 85 to planet 3
+INFO:root:Ship 85 navigating to docked ship 54
+INFO:root:Found existing move for ship 86 to planet 6
+INFO:root:Ship 86 navigating to docked ship 68
+INFO:root:Ship 87 navigating to planet 12
+INFO:root:Making new move for ship 87 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 80 to planet 6
+INFO:root:Ship 80 navigating to docked ship 68
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Found existing move for ship 84 to planet 1
+INFO:root:Ship 84 navigating to docked ship 74
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 119
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 85 to planet 3
+INFO:root:Ship 85 navigating to docked ship 54
+INFO:root:Found existing move for ship 86 to planet 6
+INFO:root:Ship 86 navigating to docked ship 68
+INFO:root:Found existing move for ship 87 to planet 12
+INFO:root:Ship 87 navigating to docked ship 73
+INFO:root:Ship 87 navigating to docked ship 79
+WARNING:root:None command for ship 87 and planet 0, which is full? False
+INFO:root:Making new move for ship 87 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Ship 88 navigating to planet 6
+INFO:root:Making new move for ship 88 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 80 to planet 6
+INFO:root:Ship 80 navigating to docked ship 68
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Found existing move for ship 84 to planet 1
+INFO:root:Ship 84 navigating to docked ship 74
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 120
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 85 to planet 3
+INFO:root:Ship 85 navigating to docked ship 54
+INFO:root:Found existing move for ship 86 to planet 6
+INFO:root:Ship 86 navigating to docked ship 68
+INFO:root:Found existing move for ship 87 to planet 0
+INFO:root:Ship 87 navigating to docked ship 79
+INFO:root:Ship 87 navigating to unowned planet 6
+INFO:root:Making new move for ship 87 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 88 to planet 6
+INFO:root:Ship 88 navigating to docked ship 68
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Ship 89 navigating to docked ship 79
+WARNING:root:None command for ship 89 and planet 0, which is full? False
+INFO:root:Making new move for ship 89 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 84 to planet 1
+INFO:root:Ship 84 navigating to docked ship 74
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 121
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 85 to planet 3
+INFO:root:Ship 85 navigating to docked ship 54
+INFO:root:Found existing move for ship 86 to planet 6
+INFO:root:Ship 86 navigating to docked ship 68
+INFO:root:Found existing move for ship 87 to planet 6
+INFO:root:Ship 87 navigating to unowned planet 6
+INFO:root:Found existing move for ship 88 to planet 6
+INFO:root:Ship 88 navigating to docked ship 68
+INFO:root:Ship 90 navigating to unowned planet 6
+INFO:root:Making new move for ship 90 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Found existing move for ship 89 to planet 0
+INFO:root:Ship 89 navigating to docked ship 79
+INFO:root:Ship 89 navigating to planet 12
+INFO:root:Making new move for ship 89 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 84 to planet 1
+INFO:root:Ship 84 navigating to docked ship 74
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 122
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 67 to planet 6
+INFO:root:Ship 67 navigating to docked ship 53
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 85 to planet 3
+INFO:root:Ship 85 navigating to docked ship 54
+INFO:root:Found existing move for ship 86 to planet 6
+INFO:root:Ship 86 navigating to docked ship 68
+INFO:root:Found existing move for ship 87 to planet 6
+INFO:root:Ship 87 navigating to unowned planet 6
+INFO:root:Found existing move for ship 88 to planet 6
+INFO:root:Ship 88 navigating to docked ship 68
+INFO:root:Found existing move for ship 90 to planet 6
+INFO:root:Ship 90 navigating to unowned planet 6
+INFO:root:Ship 91 navigating to docked ship 42
+INFO:root:Making new move for ship 91 to Entity Planet (id: 2) at position: (x = 117.63163601714598, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Ship 92 docking at planet 7
+INFO:root:Making new move for ship 92 to Entity Planet (id: 7) at position: (x = 94.1773301450987, y = 85.77623455660674), with radius = 15.303351823760337
+INFO:root:Ship 93 docking at planet 12
+INFO:root:Making new move for ship 93 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Found existing move for ship 89 to planet 12
+INFO:root:Ship 89 navigating to docked ship 73
+INFO:root:Ship 89 navigating to docked ship 79
+WARNING:root:None command for ship 89 and planet 0, which is full? False
+INFO:root:Making new move for ship 89 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 84 to planet 1
+INFO:root:Ship 84 navigating to docked ship 74
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 123
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 85 to planet 3
+INFO:root:Ship 85 navigating to docked ship 54
+INFO:root:Found existing move for ship 87 to planet 6
+INFO:root:Ship 87 navigating to unowned planet 6
+INFO:root:Found existing move for ship 88 to planet 6
+INFO:root:Ship 88 navigating to docked ship 68
+INFO:root:Found existing move for ship 90 to planet 6
+INFO:root:Ship 90 navigating to unowned planet 6
+INFO:root:Found existing move for ship 91 to planet 2
+INFO:root:Ship 91 navigating to docked ship 42
+INFO:root:Ship 91 navigating to unowned planet 6
+INFO:root:Making new move for ship 91 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Ship 94 navigating to planet 10
+WARNING:root:None command for ship 94 and planet 10, which is full? False
+INFO:root:Making new move for ship 94 to Entity Planet (id: 10) at position: (x = 62.85078710439542, y = 113.88832396514199), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 89 to planet 0
+INFO:root:Ship 89 navigating to docked ship 79
+INFO:root:Ship 89 navigating to unowned planet 6
+INFO:root:Making new move for ship 89 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 84 to planet 1
+INFO:root:Ship 84 navigating to docked ship 74
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 124
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 87 to planet 6
+INFO:root:Ship 87 navigating to unowned planet 6
+INFO:root:Found existing move for ship 88 to planet 6
+INFO:root:Ship 88 navigating to docked ship 68
+INFO:root:Found existing move for ship 90 to planet 6
+INFO:root:Ship 90 docking at planet 6
+INFO:root:Found existing move for ship 91 to planet 6
+INFO:root:Ship 91 navigating to unowned planet 6
+INFO:root:Found existing move for ship 94 to planet 10
+INFO:root:Ship 94 navigating to docked ship 66
+INFO:root:Ship 94 navigating to unowned planet 6
+INFO:root:Making new move for ship 94 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 89 to planet 6
+INFO:root:Ship 89 navigating to unowned planet 6
+INFO:root:Found existing move for ship 84 to planet 1
+INFO:root:Ship 84 navigating to docked ship 74
+INFO:root:Ship 95 navigating to unowned planet 6
+INFO:root:Making new move for ship 95 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 125
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Ship 96 docking at planet 1
+INFO:root:Making new move for ship 96 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 89 to planet 6
+INFO:root:Ship 89 navigating to unowned planet 6
+INFO:root:Found existing move for ship 91 to planet 6
+INFO:root:Ship 91 navigating to unowned planet 6
+INFO:root:Found existing move for ship 94 to planet 6
+INFO:root:Ship 94 navigating to unowned planet 6
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Ship 98 navigating to planet 6
+INFO:root:Making new move for ship 98 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 95 to planet 6
+INFO:root:Ship 95 navigating to unowned planet 6
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 126
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 89 to planet 6
+INFO:root:Ship 89 navigating to unowned planet 6
+INFO:root:Found existing move for ship 91 to planet 6
+INFO:root:Ship 91 navigating to unowned planet 6
+INFO:root:Found existing move for ship 94 to planet 6
+INFO:root:Ship 94 navigating to unowned planet 6
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 98 to planet 6
+INFO:root:Ship 98 navigating to docked ship 90
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Ship 99 navigating to planet 7
+WARNING:root:None command for ship 99 and planet 7, which is full? False
+INFO:root:Making new move for ship 99 to Entity Planet (id: 7) at position: (x = 94.1773301450987, y = 85.77623455660674), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 95 to planet 6
+INFO:root:Ship 95 navigating to unowned planet 6
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 127
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Ship 100 navigating to planet 6
+INFO:root:Making new move for ship 100 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 89 to planet 6
+INFO:root:Ship 89 navigating to unowned planet 6
+INFO:root:Found existing move for ship 91 to planet 6
+INFO:root:Ship 91 docking at planet 6
+INFO:root:Found existing move for ship 94 to planet 6
+INFO:root:Ship 94 navigating to unowned planet 6
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 98 to planet 6
+INFO:root:Ship 98 navigating to docked ship 90
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 99 to planet 7
+INFO:root:Ship 99 navigating to docked ship 41
+INFO:root:Ship 99 navigating to planet 12
+INFO:root:Making new move for ship 99 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 95 to planet 6
+INFO:root:Ship 95 navigating to unowned planet 6
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 128
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 navigating to unowned planet 10
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 89 to planet 6
+INFO:root:Ship 89 docking at planet 6
+INFO:root:Found existing move for ship 94 to planet 6
+INFO:root:Ship 94 docking at planet 6
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Ship 101 navigating to planet 6
+INFO:root:Making new move for ship 101 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 99 to planet 12
+INFO:root:Ship 99 navigating to docked ship 73
+INFO:root:Ship 99 navigating to docked ship 42
+WARNING:root:None command for ship 99 and planet 2, which is full? False
+INFO:root:Making new move for ship 99 to Entity Planet (id: 2) at position: (x = 117.63163601714598, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 95 to planet 6
+INFO:root:Ship 95 navigating to unowned planet 6
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 129
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 83 to planet 10
+INFO:root:Ship 83 docking at planet 10
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 101 to planet 6
+INFO:root:Ship 101 navigating to docked ship 91
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 99 to planet 2
+INFO:root:Ship 99 navigating to docked ship 42
+INFO:root:Ship 99 navigating to planet 1
+WARNING:root:None command for ship 99 and planet 1, which is full? False
+INFO:root:Making new move for ship 99 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 95 to planet 6
+INFO:root:Ship 95 docking at planet 6
+INFO:root:Ship 102 navigating to planet 10
+WARNING:root:None command for ship 102 and planet 10, which is full? False
+INFO:root:Making new move for ship 102 to Entity Planet (id: 10) at position: (x = 62.85078710439542, y = 113.88832396514199), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 130
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 101 to planet 6
+INFO:root:Ship 101 navigating to docked ship 91
+INFO:root:Ship 103 navigating to docked ship 79
+WARNING:root:None command for ship 103 and planet 0, which is full? False
+INFO:root:Making new move for ship 103 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 99 to planet 1
+INFO:root:Ship 99 navigating to docked ship 76
+INFO:root:Ship 99 navigating to planet 6
+INFO:root:Making new move for ship 99 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 102 to planet 10
+INFO:root:Ship 102 navigating to docked ship 66
+INFO:root:Ship 102 navigating to planet 6
+INFO:root:Making new move for ship 102 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 131
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Ship 107 docking at planet 12
+INFO:root:Making new move for ship 107 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 101 to planet 6
+INFO:root:Ship 101 navigating to docked ship 91
+INFO:root:Found existing move for ship 103 to planet 0
+INFO:root:Ship 103 navigating to docked ship 79
+INFO:root:Ship 103 navigating to docked ship 42
+INFO:root:Making new move for ship 103 to Entity Planet (id: 2) at position: (x = 117.63163601714598, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Ship 104 navigating to docked ship 79
+INFO:root:Making new move for ship 104 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Ship 106 docking at planet 7
+INFO:root:Making new move for ship 106 to Entity Planet (id: 7) at position: (x = 94.1773301450987, y = 85.77623455660674), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 99 to planet 6
+INFO:root:Ship 99 navigating to docked ship 89
+INFO:root:Ship 105 navigating to planet 6
+INFO:root:Making new move for ship 105 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 102 to planet 6
+INFO:root:Ship 102 navigating to docked ship 89
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 132
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 101 to planet 6
+INFO:root:Ship 101 navigating to docked ship 91
+INFO:root:Found existing move for ship 103 to planet 2
+INFO:root:Ship 103 navigating to docked ship 42
+INFO:root:Ship 103 navigating to unowned planet 0
+WARNING:root:None command for ship 103 and planet 0, which is full? False
+INFO:root:Making new move for ship 103 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 99 to planet 6
+INFO:root:Ship 99 navigating to docked ship 89
+INFO:root:Ship 108 navigating to unowned planet 0
+WARNING:root:None command for ship 108 and planet 0, which is full? False
+INFO:root:Making new move for ship 108 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 105 to planet 6
+INFO:root:Ship 105 navigating to docked ship 89
+INFO:root:Found existing move for ship 102 to planet 6
+INFO:root:Ship 102 navigating to docked ship 89
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 133
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 102 to planet 6
+INFO:root:Ship 102 navigating to docked ship 89
+INFO:root:Found existing move for ship 103 to planet 0
+INFO:root:Ship 103 navigating to unowned planet 0
+INFO:root:Ship 103 navigating to planet 6
+INFO:root:Making new move for ship 103 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Ship 110 docking at planet 10
+INFO:root:Making new move for ship 110 to Entity Planet (id: 10) at position: (x = 62.85078710439542, y = 113.88832396514199), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 99 to planet 6
+INFO:root:Ship 99 navigating to docked ship 89
+INFO:root:Found existing move for ship 108 to planet 0
+INFO:root:Ship 108 navigating to unowned planet 0
+INFO:root:Ship 108 navigating to planet 1
+INFO:root:Making new move for ship 108 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 105 to planet 6
+INFO:root:Ship 105 navigating to docked ship 89
+INFO:root:Ship 109 navigating to planet 6
+INFO:root:Making new move for ship 109 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 134
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Ship 111 navigating to docked ship 42
+WARNING:root:None command for ship 111 and planet 2, which is full? False
+INFO:root:Making new move for ship 111 to Entity Planet (id: 2) at position: (x = 117.63163601714598, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 102 to planet 6
+INFO:root:Ship 102 navigating to docked ship 89
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 99 to planet 6
+INFO:root:Ship 99 navigating to docked ship 89
+INFO:root:Found existing move for ship 108 to planet 1
+INFO:root:Ship 108 navigating to docked ship 76
+INFO:root:Found existing move for ship 105 to planet 6
+INFO:root:Ship 105 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 135
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 105 to planet 6
+INFO:root:Ship 105 navigating to docked ship 89
+INFO:root:Found existing move for ship 111 to planet 2
+INFO:root:Ship 111 navigating to docked ship 42
+INFO:root:Ship 111 navigating to unowned planet 8
+WARNING:root:None command for ship 111 and planet 8, which is full? False
+INFO:root:Making new move for ship 111 to Entity Planet (id: 8) at position: (x = 124.7652495535317, y = 31.762583571233705), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 102 to planet 6
+INFO:root:Ship 102 navigating to docked ship 89
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Ship 112 navigating to planet 6
+INFO:root:Making new move for ship 112 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 108 to planet 1
+INFO:root:Ship 108 navigating to docked ship 76
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 136
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Ship 113 navigating to docked ship 81
+INFO:root:Making new move for ship 113 to Entity Planet (id: 3) at position: (x = 137.36836398285402, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 111 to planet 8
+INFO:root:Ship 111 navigating to unowned planet 8
+INFO:root:Ship 111 navigating to docked ship 97
+WARNING:root:None command for ship 111 and planet 0, which is full? False
+INFO:root:Making new move for ship 111 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 112 to planet 6
+INFO:root:Ship 112 navigating to docked ship 94
+INFO:root:Found existing move for ship 108 to planet 1
+INFO:root:Ship 108 navigating to docked ship 76
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 137
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 113 to planet 3
+INFO:root:Ship 113 navigating to docked ship 81
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 111 to planet 0
+INFO:root:Ship 111 navigating to docked ship 97
+INFO:root:Ship 111 navigating to planet 12
+INFO:root:Making new move for ship 111 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 112 to planet 6
+INFO:root:Ship 112 navigating to docked ship 94
+INFO:root:Found existing move for ship 108 to planet 1
+INFO:root:Ship 108 navigating to docked ship 76
+INFO:root:Ship 114 navigating to docked ship 42
+INFO:root:Making new move for ship 114 to Entity Planet (id: 2) at position: (x = 117.63163601714598, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Ship 116 navigating to planet 6
+INFO:root:Making new move for ship 116 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Ship 117 docking at planet 7
+INFO:root:Making new move for ship 117 to Entity Planet (id: 7) at position: (x = 94.1773301450987, y = 85.77623455660674), with radius = 15.303351823760337
+INFO:root:Ship 118 docking at planet 12
+INFO:root:Making new move for ship 118 to Entity Planet (id: 12) at position: (x = 192.1492128956046, y = 141.11167603485802), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 138
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 113 to planet 3
+INFO:root:Ship 113 navigating to docked ship 81
+INFO:root:Ship 119 navigating to docked ship 97
+WARNING:root:None command for ship 119 and planet 0, which is full? False
+INFO:root:Making new move for ship 119 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 111 to planet 12
+INFO:root:Ship 111 navigating to docked ship 73
+INFO:root:Ship 111 navigating to planet 6
+INFO:root:Making new move for ship 111 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 112 to planet 6
+INFO:root:Ship 112 navigating to docked ship 94
+INFO:root:Found existing move for ship 108 to planet 1
+INFO:root:Ship 108 navigating to docked ship 76
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 139
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 119 to planet 0
+INFO:root:Ship 119 navigating to docked ship 97
+INFO:root:Ship 119 navigating to docked ship 97
+WARNING:root:None command for ship 119 and planet 0, which is full? False
+INFO:root:Making new move for ship 119 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 111 to planet 6
+INFO:root:Ship 111 navigating to docked ship 94
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 113 to planet 3
+INFO:root:Ship 113 navigating to docked ship 81
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Ship 120 navigating to docked ship 81
+INFO:root:Making new move for ship 120 to Entity Planet (id: 3) at position: (x = 137.36836398285402, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Ship 121 docking at planet 10
+INFO:root:Making new move for ship 121 to Entity Planet (id: 10) at position: (x = 62.85078710439542, y = 113.88832396514199), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 140
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 119 to planet 0
+INFO:root:Ship 119 navigating to docked ship 97
+INFO:root:Ship 119 navigating to docked ship 81
+WARNING:root:None command for ship 119 and planet 3, which is full? False
+INFO:root:Making new move for ship 119 to Entity Planet (id: 3) at position: (x = 137.36836398285402, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 111 to planet 6
+INFO:root:Ship 111 navigating to docked ship 94
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 113 to planet 3
+INFO:root:Ship 113 navigating to docked ship 81
+INFO:root:Ship 123 docking at planet 6
+INFO:root:Making new move for ship 123 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 120 to planet 3
+INFO:root:Ship 120 navigating to docked ship 81
+INFO:root:Ship 122 navigating to docked ship 97
+INFO:root:Making new move for ship 122 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Starting turn 141
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 111 to planet 6
+INFO:root:Ship 111 navigating to docked ship 94
+INFO:root:Found existing move for ship 113 to planet 3
+INFO:root:Ship 113 navigating to docked ship 81
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 119 to planet 3
+INFO:root:Ship 119 navigating to docked ship 81
+INFO:root:Ship 119 navigating to docked ship 97
+WARNING:root:None command for ship 119 and planet 0, which is full? False
+INFO:root:Making new move for ship 119 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 120 to planet 3
+INFO:root:Ship 120 navigating to docked ship 81
+INFO:root:Found existing move for ship 122 to planet 0
+INFO:root:Ship 122 navigating to docked ship 97
+INFO:root:Ship 125 navigating to planet 6
+INFO:root:Making new move for ship 125 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Ship 126 navigating to docked ship 115
+INFO:root:Making new move for ship 126 to Entity Planet (id: 2) at position: (x = 117.63163601714598, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Ship 127 navigating to docked ship 97
+INFO:root:Making new move for ship 127 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Starting turn 142
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Ship 128 navigating to docked ship 97
+INFO:root:Making new move for ship 128 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 111 to planet 6
+INFO:root:Ship 111 navigating to docked ship 94
+INFO:root:Found existing move for ship 113 to planet 3
+INFO:root:Ship 113 navigating to docked ship 81
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 119 to planet 0
+INFO:root:Ship 119 navigating to docked ship 97
+INFO:root:Ship 119 navigating to docked ship 97
+WARNING:root:None command for ship 119 and planet 0, which is full? False
+INFO:root:Making new move for ship 119 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 120 to planet 3
+INFO:root:Ship 120 navigating to docked ship 81
+INFO:root:Found existing move for ship 122 to planet 0
+INFO:root:Ship 122 navigating to docked ship 97
+INFO:root:Found existing move for ship 125 to planet 6
+INFO:root:Ship 125 navigating to docked ship 123
+INFO:root:Found existing move for ship 126 to planet 2
+INFO:root:Ship 126 navigating to docked ship 115
+INFO:root:Found existing move for ship 127 to planet 0
+INFO:root:Ship 127 navigating to docked ship 97
+INFO:root:Starting turn 143
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 128 to planet 0
+INFO:root:Ship 128 navigating to docked ship 97
+INFO:root:Ship 129 navigating to planet 1
+INFO:root:Making new move for ship 129 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Ship 130 navigating to planet 7
+INFO:root:Making new move for ship 130 to Entity Planet (id: 7) at position: (x = 94.1773301450987, y = 85.77623455660674), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 113 to planet 3
+INFO:root:Ship 113 navigating to docked ship 81
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 119 to planet 0
+INFO:root:Ship 119 navigating to docked ship 97
+INFO:root:Ship 119 navigating to docked ship 97
+WARNING:root:None command for ship 119 and planet 0, which is full? False
+INFO:root:Making new move for ship 119 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 122 to planet 0
+INFO:root:Ship 122 navigating to docked ship 97
+INFO:root:Found existing move for ship 125 to planet 6
+INFO:root:Ship 125 navigating to docked ship 123
+INFO:root:Found existing move for ship 126 to planet 2
+INFO:root:Ship 126 navigating to docked ship 115
+INFO:root:Found existing move for ship 127 to planet 0
+INFO:root:Ship 127 navigating to docked ship 97
+INFO:root:Starting turn 144
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 128 to planet 0
+INFO:root:Ship 128 navigating to docked ship 97
+INFO:root:Found existing move for ship 129 to planet 1
+INFO:root:Ship 129 navigating to docked ship 77
+INFO:root:Found existing move for ship 130 to planet 7
+INFO:root:Ship 130 navigating to docked ship 41
+INFO:root:Ship 132 navigating to unowned planet 9
+INFO:root:Making new move for ship 132 to Entity Planet (id: 9) at position: (x = 158.08791940843304, y = 73.48634901462694), with radius = 15.303351823760337
+INFO:root:Ship 133 navigating to planet 1
+INFO:root:Making new move for ship 133 to Entity Planet (id: 1) at position: (x = 117.63163601714598, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Ship 131 navigating to docked ship 81
+INFO:root:Making new move for ship 131 to Entity Planet (id: 3) at position: (x = 137.36836398285402, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 119 to planet 0
+INFO:root:Ship 119 navigating to docked ship 97
+INFO:root:Ship 119 navigating to planet 7
+WARNING:root:None command for ship 119 and planet 7, which is full? False
+INFO:root:Making new move for ship 119 to Entity Planet (id: 7) at position: (x = 94.1773301450987, y = 85.77623455660674), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 122 to planet 0
+INFO:root:Ship 122 navigating to docked ship 97
+INFO:root:Found existing move for ship 125 to planet 6
+INFO:root:Ship 125 navigating to docked ship 123
+INFO:root:Found existing move for ship 126 to planet 2
+INFO:root:Ship 126 navigating to docked ship 115
+INFO:root:Found existing move for ship 127 to planet 0
+INFO:root:Ship 127 navigating to docked ship 97
+INFO:root:Starting turn 145
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 128 to planet 0
+INFO:root:Ship 128 navigating to docked ship 97
+INFO:root:Found existing move for ship 129 to planet 1
+INFO:root:Ship 129 navigating to docked ship 77
+INFO:root:Found existing move for ship 130 to planet 7
+INFO:root:Ship 130 navigating to docked ship 41
+INFO:root:Found existing move for ship 132 to planet 9
+INFO:root:Ship 132 navigating to unowned planet 9
+INFO:root:Found existing move for ship 133 to planet 1
+INFO:root:Ship 133 navigating to docked ship 77
+INFO:root:Found existing move for ship 131 to planet 3
+INFO:root:Ship 131 navigating to docked ship 81
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Ship 134 navigating to planet 6
+INFO:root:Making new move for ship 134 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 119 to planet 7
+INFO:root:Ship 119 navigating to docked ship 41
+INFO:root:Ship 119 navigating to docked ship 97
+WARNING:root:None command for ship 119 and planet 0, which is full? False
+INFO:root:Making new move for ship 119 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 122 to planet 0
+INFO:root:Ship 122 navigating to docked ship 97
+INFO:root:Found existing move for ship 125 to planet 6
+INFO:root:Ship 125 navigating to docked ship 123
+INFO:root:Found existing move for ship 126 to planet 2
+INFO:root:Ship 126 navigating to docked ship 115
+INFO:root:Found existing move for ship 127 to planet 0
+INFO:root:Ship 127 navigating to docked ship 97
+INFO:root:Starting turn 146
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 128 to planet 0
+INFO:root:Ship 128 navigating to docked ship 97
+INFO:root:Found existing move for ship 129 to planet 1
+INFO:root:Ship 129 navigating to docked ship 77
+INFO:root:Found existing move for ship 130 to planet 7
+INFO:root:Ship 130 navigating to docked ship 41
+INFO:root:Found existing move for ship 132 to planet 9
+INFO:root:Ship 132 navigating to unowned planet 9
+INFO:root:Found existing move for ship 133 to planet 1
+INFO:root:Ship 133 navigating to docked ship 77
+INFO:root:Ship 135 navigating to docked ship 81
+INFO:root:Making new move for ship 135 to Entity Planet (id: 3) at position: (x = 137.36836398285402, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 131 to planet 3
+INFO:root:Ship 131 navigating to docked ship 81
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 134 to planet 6
+INFO:root:Ship 134 navigating to docked ship 123
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 119 to planet 0
+INFO:root:Ship 119 navigating to docked ship 97
+INFO:root:Ship 119 navigating to planet 6
+INFO:root:Making new move for ship 119 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 122 to planet 0
+INFO:root:Ship 122 navigating to docked ship 97
+INFO:root:Found existing move for ship 125 to planet 6
+INFO:root:Ship 125 navigating to docked ship 123
+INFO:root:Found existing move for ship 126 to planet 2
+INFO:root:Ship 126 navigating to docked ship 115
+INFO:root:Found existing move for ship 127 to planet 0
+INFO:root:Ship 127 navigating to docked ship 97
+INFO:root:Starting turn 147
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 128 to planet 0
+INFO:root:Ship 128 navigating to docked ship 97
+INFO:root:Found existing move for ship 129 to planet 1
+INFO:root:Ship 129 navigating to docked ship 77
+INFO:root:Found existing move for ship 130 to planet 7
+INFO:root:Ship 130 navigating to docked ship 41
+INFO:root:Found existing move for ship 132 to planet 9
+INFO:root:Ship 132 navigating to unowned planet 9
+INFO:root:Found existing move for ship 133 to planet 1
+INFO:root:Ship 133 navigating to docked ship 77
+INFO:root:Found existing move for ship 135 to planet 3
+INFO:root:Ship 135 navigating to docked ship 81
+INFO:root:Ship 138 docking at planet 7
+INFO:root:Making new move for ship 138 to Entity Planet (id: 7) at position: (x = 94.1773301450987, y = 85.77623455660674), with radius = 15.303351823760337
+INFO:root:Ship 139 navigating to unowned planet 13
+INFO:root:Making new move for ship 139 to Entity Planet (id: 13) at position: (x = 22.86024048202904, y = 135.90965370999734), with radius = 9.004917417165935
+INFO:root:Ship 140 navigating to docked ship 115
+INFO:root:Making new move for ship 140 to Entity Planet (id: 2) at position: (x = 117.63163601714598, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 131 to planet 3
+INFO:root:Ship 131 navigating to docked ship 81
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 134 to planet 6
+INFO:root:Ship 134 navigating to docked ship 123
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Ship 136 navigating to docked ship 97
+INFO:root:Making new move for ship 136 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Ship 137 navigating to planet 6
+INFO:root:Making new move for ship 137 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 119 to planet 6
+INFO:root:Ship 119 navigating to docked ship 123
+INFO:root:Found existing move for ship 122 to planet 0
+INFO:root:Ship 122 navigating to docked ship 97
+INFO:root:Found existing move for ship 125 to planet 6
+INFO:root:Ship 125 navigating to docked ship 123
+INFO:root:Found existing move for ship 126 to planet 2
+INFO:root:Ship 126 navigating to docked ship 115
+INFO:root:Found existing move for ship 127 to planet 0
+INFO:root:Ship 127 navigating to docked ship 97
+INFO:root:Starting turn 148
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 128 to planet 0
+INFO:root:Ship 128 navigating to docked ship 97
+INFO:root:Found existing move for ship 129 to planet 1
+INFO:root:Ship 129 navigating to docked ship 77
+INFO:root:Found existing move for ship 130 to planet 7
+INFO:root:Ship 130 navigating to docked ship 41
+INFO:root:Found existing move for ship 132 to planet 9
+INFO:root:Ship 132 navigating to unowned planet 9
+INFO:root:Found existing move for ship 133 to planet 1
+INFO:root:Ship 133 navigating to docked ship 77
+INFO:root:Found existing move for ship 135 to planet 3
+INFO:root:Ship 135 navigating to docked ship 81
+INFO:root:Found existing move for ship 139 to planet 13
+INFO:root:Ship 139 navigating to unowned planet 13
+INFO:root:Found existing move for ship 140 to planet 2
+INFO:root:Ship 140 navigating to docked ship 115
+INFO:root:Found existing move for ship 131 to planet 3
+INFO:root:Ship 131 navigating to docked ship 81
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 134 to planet 6
+INFO:root:Ship 134 navigating to docked ship 123
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 137 to planet 6
+INFO:root:Ship 137 navigating to docked ship 123
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Ship 141 navigating to unowned planet 0
+WARNING:root:None command for ship 141 and planet 0, which is full? False
+INFO:root:Making new move for ship 141 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 119 to planet 6
+INFO:root:Ship 119 navigating to docked ship 123
+INFO:root:Found existing move for ship 122 to planet 0
+INFO:root:Ship 122 navigating to docked ship 97
+INFO:root:Found existing move for ship 125 to planet 6
+INFO:root:Ship 125 navigating to docked ship 123
+INFO:root:Found existing move for ship 127 to planet 0
+INFO:root:Ship 127 navigating to docked ship 97
+INFO:root:Starting turn 149
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 128 to planet 0
+INFO:root:Ship 128 navigating to docked ship 97
+INFO:root:Found existing move for ship 129 to planet 1
+INFO:root:Ship 129 navigating to docked ship 77
+INFO:root:Found existing move for ship 130 to planet 7
+INFO:root:Ship 130 navigating to docked ship 41
+INFO:root:Found existing move for ship 132 to planet 9
+INFO:root:Ship 132 docking at planet 9
+INFO:root:Found existing move for ship 133 to planet 1
+INFO:root:Ship 133 navigating to docked ship 77
+INFO:root:Found existing move for ship 135 to planet 3
+INFO:root:Ship 135 navigating to docked ship 81
+INFO:root:Found existing move for ship 139 to planet 13
+INFO:root:Ship 139 navigating to unowned planet 13
+INFO:root:Found existing move for ship 140 to planet 2
+INFO:root:Ship 140 navigating to docked ship 115
+INFO:root:Ship 142 navigating to docked ship 81
+WARNING:root:None command for ship 142 and planet 3, which is full? False
+INFO:root:Making new move for ship 142 to Entity Planet (id: 3) at position: (x = 137.36836398285402, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Ship 143 docking at planet 6
+INFO:root:Making new move for ship 143 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 131 to planet 3
+INFO:root:Ship 131 navigating to docked ship 81
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 134 to planet 6
+INFO:root:Ship 134 navigating to docked ship 123
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 137 to planet 6
+INFO:root:Ship 137 navigating to docked ship 123
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 141 to planet 0
+INFO:root:Ship 141 navigating to unowned planet 0
+INFO:root:Ship 141 navigating to docked ship 81
+WARNING:root:None command for ship 141 and planet 3, which is full? False
+INFO:root:Making new move for ship 141 to Entity Planet (id: 3) at position: (x = 137.36836398285402, y = 117.63163601714598), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 119 to planet 6
+INFO:root:Ship 119 navigating to docked ship 123
+INFO:root:Found existing move for ship 122 to planet 0
+INFO:root:Ship 122 navigating to docked ship 97
+INFO:root:Found existing move for ship 127 to planet 0
+INFO:root:Ship 127 navigating to docked ship 97
+INFO:root:Starting turn 150
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 128 to planet 0
+INFO:root:Ship 128 navigating to docked ship 97
+INFO:root:Found existing move for ship 129 to planet 1
+INFO:root:Ship 129 navigating to docked ship 77
+INFO:root:Found existing move for ship 130 to planet 7
+INFO:root:Ship 130 navigating to docked ship 41
+INFO:root:Found existing move for ship 133 to planet 1
+INFO:root:Ship 133 navigating to docked ship 77
+INFO:root:Found existing move for ship 135 to planet 3
+INFO:root:Ship 135 navigating to docked ship 81
+INFO:root:Found existing move for ship 139 to planet 13
+INFO:root:Ship 139 navigating to unowned planet 13
+INFO:root:Found existing move for ship 140 to planet 2
+INFO:root:Ship 140 navigating to docked ship 115
+INFO:root:Found existing move for ship 142 to planet 3
+INFO:root:Ship 142 navigating to docked ship 81
+INFO:root:Ship 142 navigating to planet 6
+INFO:root:Making new move for ship 142 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Ship 145 docking at planet 7
+INFO:root:Making new move for ship 145 to Entity Planet (id: 7) at position: (x = 94.1773301450987, y = 85.77623455660674), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 131 to planet 3
+INFO:root:Ship 131 navigating to docked ship 81
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 134 to planet 6
+INFO:root:Ship 134 navigating to docked ship 123
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 137 to planet 6
+INFO:root:Ship 137 navigating to docked ship 123
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Ship 146 navigating to unowned planet 11
+INFO:root:Making new move for ship 146 to Entity Planet (id: 11) at position: (x = 232.13975951797096, y = 119.09034629000266), with radius = 9.004917417165935
+INFO:root:Found existing move for ship 141 to planet 3
+INFO:root:Ship 141 navigating to docked ship 81
+INFO:root:Ship 141 navigating to planet 6
+INFO:root:Making new move for ship 141 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Ship 144 navigating to unowned planet 0
+INFO:root:Making new move for ship 144 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Ship 147 navigating to unowned planet 0
+INFO:root:Making new move for ship 147 to Entity Planet (id: 0) at position: (x = 137.36836398285402, y = 137.36836398285402), with radius = 6.477987091493167
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 119 to planet 6
+INFO:root:Ship 119 navigating to docked ship 123
+INFO:root:Starting turn 151
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 128 to planet 0
+INFO:root:Ship 128 navigating to docked ship 97
+INFO:root:Found existing move for ship 129 to planet 1
+INFO:root:Ship 129 navigating to docked ship 77
+INFO:root:Found existing move for ship 133 to planet 1
+INFO:root:Ship 133 navigating to docked ship 77
+INFO:root:Found existing move for ship 135 to planet 3
+INFO:root:Ship 135 navigating to docked ship 81
+INFO:root:Found existing move for ship 139 to planet 13
+INFO:root:Ship 139 navigating to unowned planet 13
+INFO:root:Found existing move for ship 140 to planet 2
+INFO:root:Ship 140 navigating to docked ship 115
+INFO:root:Found existing move for ship 142 to planet 6
+INFO:root:Ship 142 navigating to docked ship 143
+INFO:root:Found existing move for ship 131 to planet 3
+INFO:root:Ship 131 navigating to docked ship 81
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 134 to planet 6
+INFO:root:Ship 134 navigating to docked ship 123
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 137 to planet 6
+INFO:root:Ship 137 navigating to docked ship 123
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 146 to planet 11
+INFO:root:Ship 146 navigating to unowned planet 11
+INFO:root:Found existing move for ship 141 to planet 6
+INFO:root:Ship 141 navigating to docked ship 143
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 144 to planet 0
+INFO:root:Ship 144 navigating to unowned planet 0
+INFO:root:Ship 148 navigating to planet 6
+INFO:root:Making new move for ship 148 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 147 to planet 0
+INFO:root:Ship 147 navigating to unowned planet 0
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Found existing move for ship 119 to planet 6
+INFO:root:Ship 119 navigating to docked ship 123
+INFO:root:Starting turn 152
+INFO:root:---NEW TURN---
+INFO:root:1
+INFO:root:Found existing move for ship 128 to planet 0
+INFO:root:Ship 128 navigating to docked ship 97
+INFO:root:Found existing move for ship 129 to planet 1
+INFO:root:Ship 129 navigating to docked ship 77
+INFO:root:Found existing move for ship 133 to planet 1
+INFO:root:Ship 133 navigating to docked ship 77
+INFO:root:Found existing move for ship 135 to planet 3
+INFO:root:Ship 135 navigating to docked ship 81
+INFO:root:Found existing move for ship 139 to planet 13
+INFO:root:Ship 139 docking at planet 13
+INFO:root:Found existing move for ship 140 to planet 2
+INFO:root:Ship 140 navigating to docked ship 115
+INFO:root:Found existing move for ship 142 to planet 6
+INFO:root:Ship 142 navigating to docked ship 143
+INFO:root:Found existing move for ship 131 to planet 3
+INFO:root:Ship 131 navigating to docked ship 81
+INFO:root:Found existing move for ship 20 to planet 6
+INFO:root:Ship 20 navigating to docked ship 5
+INFO:root:Ship 149 navigating to planet 6
+INFO:root:Making new move for ship 149 to Entity Planet (id: 6) at position: (x = 96.91208059156698, y = 181.51365098537306), with radius = 15.303351823760337
+INFO:root:Found existing move for ship 32 to planet 6
+INFO:root:Ship 32 navigating to docked ship 28
+INFO:root:Found existing move for ship 36 to planet 6
+INFO:root:Ship 36 navigating to docked ship 29
+INFO:root:Found existing move for ship 134 to planet 6
+INFO:root:Ship 134 navigating to docked ship 123
+INFO:root:Found existing move for ship 43 to planet 6
+INFO:root:Ship 43 navigating to docked ship 37
+INFO:root:Found existing move for ship 47 to planet 6
+INFO:root:Ship 47 navigating to docked ship 39
+INFO:root:Found existing move for ship 137 to planet 6
+INFO:root:Ship 137 navigating to docked ship 123
+INFO:root:Found existing move for ship 62 to planet 6
+INFO:root:Ship 62 navigating to docked ship 52
+INFO:root:Found existing move for ship 146 to planet 11
+INFO:root:Ship 146 navigating to unowned planet 11
+INFO:root:Found existing move for ship 141 to planet 6
+INFO:root:Ship 141 navigating to docked ship 143
+INFO:root:Found existing move for ship 82 to planet 6
+INFO:root:Ship 82 navigating to docked ship 72
+INFO:root:Found existing move for ship 144 to planet 0
+INFO:root:Ship 144 navigating to unowned planet 0
+INFO:root:Found existing move for ship 148 to planet 6
+INFO:root:Ship 148 navigating to docked ship 143
+INFO:root:Found existing move for ship 100 to planet 6
+INFO:root:Ship 100 navigating to docked ship 90
+INFO:root:Found existing move for ship 103 to planet 6
+INFO:root:Ship 103 navigating to docked ship 89
+INFO:root:Found existing move for ship 109 to planet 6
+INFO:root:Ship 109 navigating to docked ship 89
+INFO:root:Found existing move for ship 147 to planet 0
+INFO:root:Ship 147 navigating to unowned planet 0
+INFO:root:Found existing move for ship 116 to planet 6
+INFO:root:Ship 116 navigating to docked ship 94
+INFO:root:Starting turn 153
+INFO:root:---NEW TURN---

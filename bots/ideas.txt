@@ -1,0 +1,34 @@
+Strategies
+
+    1. Attack nearby enemies
+        - 4p game vs 2p game
+            - 4p game we might want to avoid confrontation
+        - Intercept rather than fly straight towards
+
+    2. Split the game into different phases and have a strategy for each
+        - Without having watched many games, my feeling is:
+            a. Fleet building
+            b. Confrontation
+            c. Consolidation
+
+    3. Probabilistic choice of planet to fly to to avoid congestion
+        - Higher probability for nearby planets and large planets
+        - Planets in our area vs in the middle vs other areas
+
+    4. Collision avoidance/pathfinding
+
+    5. Travelling in packs
+        - Travelling in packs to spread damage received and to quickly destroy
+          enemies
+
+    6. Specialised drones
+        - Give each drone a job
+
+    7. Destroy planets
+        - Does it make sense?
+            - maybe when winning or when planet is docked by many of enemy
+        - Target any planet that is fully docked by enemy?
+
+    8. Track how many/which bots are going where and take that into consideration when delegating
+
+    9. Damaged ships to become kamikazes or focus on docking -- related to (6)
