@@ -1,73 +1,135 @@
 """
-Welcome to your first Halite-II bot!
+This bot's name is Tardigrade1.01.
 
-This bot's name is Settler. It's purpose is simple (don't expect it to win complex games :) ):
-1. Initialize game
-2. If a ship is not docked and there are unowned planets
-2.a. Try to Dock in the planet if close enough
-2.b If not, go towards the planet
+Principles:
+    - This will be a very simple bot
+    - Our strategy will not change as the game progresses
+    - We will focus only on docking on planets
+    - We will choose which bots go to which planets using a probabilistic process
+    - Nearby planets and large planets will be prioritised
 
-Note: Please do not place print statements here as they are used to communicate with the Halite engine. If you need
-to log anything use the logging module.
+Tactics:
+For each undocked ship assign probability for all planets based on distance and size.
 """
-# Let's start by importing the Halite Starter Kit so we can interface with the Halite engine
-import hlt
-# Then let's import the logging module so we can print out information
-import logging
 
-# GAME START
-# Here we define the bot's name as Settler and initialize the game, including communication with the Halite engine.
-game = hlt.Game("Settler")
-# Then we print our start message to the logs
-logging.info("Starting my Settler bot!")
+import hlt
+import logging
+import math
+import random
+
+
+def calculate_ship_planet_coefficient(ship, planet):
+    distance_to_planet = float(ship.calculate_distance_between(planet))
+    planet_radius = float(planet.radius)
+    return planet_radius/pow(distance_to_planet, 3)
+
+
+def get_ship_planet_move(game_map, ship, planet):
+    if planet.is_owned():
+        if planet.owner == game_map.get_me():
+            if planet.is_full():
+                logging.info("bleh")
+                return None
+            else:
+                if ship.can_dock(planet):
+                    logging.info("Ship {} docking at planet {}".format(ship.id, planet.id))
+                    return ship.dock(planet)
+                else:
+                    logging.info("Ship {} navigating to planet {}".format(ship.id, planet.id))
+                    speed = min(hlt.constants.MAX_SPEED, math.ceil(planet.radius) + hlt.constants.DOCK_RADIUS - 1)
+                    return ship.navigate(ship.closest_point_to(planet),
+                                         game_map,
+                                         speed=speed,
+                                         ignore_ships=False,
+                                         )
+        else:
+            # get a docked ship
+            docked_ship = planet.all_docked_ships()[0]
+            logging.info("Ship {} navigating to docked ship {}".format(ship.id, docked_ship.id))
+            ignore_ships = True if ship.calculate_distance_between(docked_ship) < 8 else False
+            return ship.navigate(docked_ship,
+                                 game_map,
+                                 speed=hlt.constants.MAX_SPEED,
+                                 ignore_ships=ignore_ships,
+                                 )
+
+    else:
+        if ship.can_dock(planet):
+            logging.info("Ship {} docking at planet {}".format(ship.id, planet.id))
+            return ship.dock(planet)
+        else:
+            logging.info("Ship {} navigating to unowned planet {}".format(ship.id, planet.id))
+            return ship.navigate(ship.closest_point_to(planet),
+                                 game_map,
+                                 speed=hlt.constants.MAX_SPEED,
+                                 ignore_ships=False,
+                                 )
+
+
+def get_new_target_and_move(game_map, ship):
+    planets_and_coeffs = [
+        (p, calculate_ship_planet_coefficient(ship, p))
+        for p in game_map.all_planets()
+        if p.owner != game_map.get_me() or not p.is_full()
+    ]
+
+    sum_of_coeffs = sum(coeff for _, coeff in planets_and_coeffs)
+    planets_and_probs = [(p, coeff / sum_of_coeffs) for p, coeff in planets_and_coeffs]
+    target = choose_new_target(planets_and_probs)
+    move = get_ship_planet_move(game_map, ship, target)
+    if move is None:
+	    logging.warning("None command for ship {} and planet {}, which is full? {}".format(ship.id, target.id, target.is_full()))
+
+    return target, move
+
+
+def choose_new_target(planets_and_probs):
+    # planets = [planet for planet, _ in planets_and_probs]
+    # probs = [prob for _, prob in planets_and_probs]
+    # return np.random.choice(planets, 1, p=probs)[0]
+
+    deck = []
+    for planet, prob in planets_and_probs:
+        n = int(prob * 1000)
+        deck.extend([planet] * n)
+
+    random.shuffle(deck)
+    return random.choice(deck)
+
+
+game = hlt.Game("Tardigrade1")
+last_targets = {}
+turn = 0
+
 
 while True:
-    # TURN START
-    # Update the map for the new turn and get the latest version
+    turn += 1
+    logging.info("Starting turn {}".format(turn))
     game_map = game.update_map()
+    me = game_map.get_me()
 
-    # Here we define the set of commands to be sent to the Halite engine at the end of the turn
+    logging.info(me.id)
+
     command_queue = []
-    # For every ship that I control
+
     for ship in game_map.get_me().all_ships():
-        # If the ship is docked
         if ship.docking_status != ship.DockingStatus.UNDOCKED:
-            # Skip this ship
             continue
 
-        # For each planet in the game (only non-destroyed planets are included)
-        for planet in game_map.all_planets():
-            # If the planet is owned
-            if planet.is_owned():
-                # Skip this planet
+        last_target = last_targets.get(ship.id, None)
+
+        if last_target is not None:
+            logging.info("Found existing move for ship {} to planet {}".format(ship.id, last_target.id))
+            move = get_ship_planet_move(game_map, ship, last_target)
+            if move is not None:
+                command_queue.append(move)
                 continue
 
-            # If we can dock, let's (try to) dock. If two ships try to dock at once, neither will be able to.
-            if ship.can_dock(planet):
-                # We add the command by appending it to the command_queue
-                command_queue.append(ship.dock(planet))
-            else:
-                # If we can't dock, we move towards the closest empty point near this planet (by using closest_point_to)
-                # with constant speed. Don't worry about pathfinding for now, as the command will do it for you.
-                # We run this navigate command each turn until we arrive to get the latest move.
-                # Here we move at half our maximum speed to better control the ships
-                # In order to execute faster we also choose to ignore ship collision calculations during navigation.
-                # This will mean that you have a higher probability of crashing into ships, but it also means you will
-                # make move decisions much quicker. As your skill progresses and your moves turn more optimal you may
-                # wish to turn that option off.
-                navigate_command = ship.navigate(
-                    ship.closest_point_to(planet),
-                    game_map,
-                    speed=int(hlt.constants.MAX_SPEED/2),
-                    ignore_ships=True)
-                # If the move is possible, add it to the command_queue (if there are too many obstacles on the way
-                # or we are trapped (or we reached our destination!), navigate_command will return null;
-                # don't fret though, we can run the command again the next turn)
-                if navigate_command:
-                    command_queue.append(navigate_command)
-            break
+        target, move = get_new_target_and_move(game_map, ship)
+        if move is None:
+            move = ship.thrust(0, ship.calculate_angle_between(target))
+        logging.info("Making new move for ship {} to {}".format(ship.id, target))
+        last_targets[ship.id] = target
+        command_queue.append(move)
 
-    # Send our set of commands to the Halite engine for this turn
     game.send_command_queue(command_queue)
-    # TURN END
-# GAME END

@@ -14,6 +14,7 @@ For each undocked ship assign probability for all planets based on distance and 
 
 import hlt
 import logging
+import math
 import random
 
 
@@ -35,9 +36,10 @@ def get_ship_planet_move(game_map, ship, planet):
                     return ship.dock(planet)
                 else:
                     logging.info("Ship {} navigating to planet {}".format(ship.id, planet.id))
+                    speed = min(hlt.constants.MAX_SPEED, math.ceil(planet.radius) + hlt.constants.DOCK_RADIUS - 1)
                     return ship.navigate(ship.closest_point_to(planet),
                                          game_map,
-                                         speed=hlt.constants.MAX_SPEED,
+                                         speed=speed,
                                          ignore_ships=False,
                                          )
         else:

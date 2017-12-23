@@ -32,3 +32,18 @@ Strategies
     8. Track how many/which bots are going where and take that into consideration when delegating
 
     9. Damaged ships to become kamikazes or focus on docking -- related to (6)
+
+
+Improvements to Tardigrade1:
+    - Rather than collide with docked enemy ships, attack them or collide with the planet
+    - Need to avoid docking collisions
+    - Evaluate entire gameplay state, allocate resources, communicate to ships
+    - optimise hyperparameters
+    - factor whether planet is owned by opponent into the equation, avoid conflict
+    - at beginning, go for largest planet in my area
+
+Tardigrade 1.1:
+    - Retroactive pathfinding adjustment
+    - Attack docked ships rather than collide with them
+    - Turn 0 strategy
+    - Optimise hyperparameters
